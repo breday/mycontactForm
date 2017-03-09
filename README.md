@@ -1,2 +1,1 @@
-# ContactForm
-Simple Contact form using boostrap 2.3
+Contact Form using Basic HTML AND CSS
